@@ -1,228 +1,135 @@
 # 👋 Hi, I'm Aaditi Ajnadkar
 
-### Third-Year Information Technology Student | Aspiring Product Designer | Data & Technology Enthusiast
+### IT Student @ SAKEC | Building AI-Powered Web Applications | React, Python & RAG | Research Lead
 
-I'm a third-year B.Tech Information Technology student at **Shah and Anchor Kutchhi Engineering College (SAKEC)** with a strong interest in **Product Design, UI/UX, Data Analysis, and Data Visualization**.
-
-I enjoy combining technology and analytical thinking to build practical solutions for real-world problems. I'm currently exploring Product Design and working on strengthening my skills in user-centered design, Figma, and UX case studies.
-
-I also enjoy working with Python, SQL, and web technologies to analyze data and build interactive applications.
+I'm a B.Tech Information Technology student at **Shah and Anchor Kutchhi Engineering College (SAKEC), Mumbai** (CGPA 9.13 after 4 semesters). I build AI-powered web applications, with a focus on retrieval-augmented generation (RAG), LLM APIs and clean React frontends.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Third-year B.Tech Information Technology student
-- 🎨 Aspiring Product Designer with an interest in UI/UX and user-centered design
-- 📊 Interested in Data Analysis, EDA, and Data Visualization
-- 🐍 Experienced with Python and SQL for data-driven projects
-- 💻 Experience building web applications using React, JavaScript, HTML, and CSS
-- 🧠 Interested in exploring AI-powered applications and prompt engineering
-- 📝 Strong interest in analysis, documentation, and problem-solving
-- 🤝 Team Lead experience in a 3-person project team
-- 🌱 Currently building my Product Design portfolio and exploring open-source contributions
+- 🎓 B.Tech Information Technology, SAKEC (Aug 2024 – Present)
+- 🔬 Research Lead Intern at **Quiet Gesture**, a health-tech startup building gesture-recognition systems for people with paralysis
+- 🧠 Building RAG pipelines with FAISS and LLM APIs
+- 💻 Web apps with React, TypeScript, JavaScript and FastAPI
+- 📊 Python and SQL for data analysis and dashboards
+- 🌱 Currently looking for internships in AI, software and data
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Programming Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Technologies
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Design & Data
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Areas of Interest
-
-- Product Design
-- UI/UX Design
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Data Cleaning & Preprocessing
-- Dashboard Design
-- Prompt Engineering
-- AI-powered Applications
+**AI/ML:** Machine Learning, NLP Fundamentals, RAG, FAISS, LLM APIs, Prompt Engineering
+**Data:** SQL, Pandas, NumPy, Data Preprocessing, EDA
 
 ---
 
 ## 📂 Featured Projects
 
-### 📦 [StockSense – Inventory Analytics Web Application](https://github.com/Ajnaaditi30/StockSense)
+### 🧠 [SAP Error Decoder – AI-Powered Diagnostic Tool](https://github.com/Ajnaaditi30/SAP) · [Live Demo](https://sap-error-decoder.vercel.app/main-app)
 
-An interactive inventory analytics application designed to analyze inventory and identify dead stock and slow-moving items.
+An AI tool that explains SAP ERP errors with root-cause analysis and suggested fixes.
 
-**Tech Stack:** Python, SQL, Streamlit
+- RAG pipeline: a knowledge base of 200+ LLM-generated SAP error entries, indexed in FAISS, with the top retrieved chunks passed to an LLM API for grounded answers
+- Frontend deployed on Vercel and API on Render; verified end-to-end on a real SAP error (F5 808)
 
-**Key Features:**
-- 📊 Inventory and dead stock analysis
-- 🔍 SQL-driven data processing and validation
-- 📈 Exploratory Data Analysis
-- 🎛️ Interactive dashboards and filters
-- ☁️ Deployed using Streamlit Community Cloud
+**Tech:** React, JavaScript, FAISS, RAG, LLM API
 
 ---
 
-### 🧠 [SAP Error Decoder – AI-Powered Diagnostic Tool](https://github.com/Ajnaaditi30/SAP)
+### 🔐 [QRShield – QR Payment Integrity Simulator](https://github.com/Ajnaaditi30/QRShield-Payment-Integrity-Simulator) · [Live Demo](https://qr-shield-payment-integrity-simulat.vercel.app/)
 
-An AI-powered web application that helps users understand complex SAP ERP error messages and provides actionable diagnostic information.
+A web-based simulator that demonstrates the risks of manipulated payment QR codes.
 
-**Tech Stack:** React, JavaScript, OpenAI/Gemini API, Prompt Engineering
+- FastAPI endpoints that generate HMAC-signed payment QR payloads and verify them to detect tampering
+- React + TypeScript dashboard that displays the resulting risk indicators
+- Backend validated with 26 passing test cases
 
-**Key Features:**
-- 🔎 SAP error analysis
-- 🧠 AI-generated root cause analysis
-- 🛠️ Step-by-step troubleshooting suggestions
-- 📋 SAP transaction code recommendations
-- ⚠️ Risk-level estimation
-- 📊 Error history and usage analytics dashboard
-
-**Role:** Team Lead & Lead Developer
+**Tech:** React, TypeScript, Python, FastAPI
 
 ---
 
-### ❤️ [CardioGuard AI – Cardiac Risk Awareness System](https://github.com/Ajnaaditi30/Cardio-GuardAI)
+### ❤️ [CardioGuard AI – Cardiac Risk Awareness System](https://github.com/Ajnaaditi30/Cardio-GuardAI) · [Live Demo](https://cardio-guard-ai-liart.vercel.app/)
 
-A web-based healthcare awareness application that analyzes user-provided health parameters and symptoms to provide cardiac risk awareness and emergency assistance features.
+A rule-based prototype that evaluates health parameters and symptoms to raise cardiac risk awareness.
 
-**Tech Stack:** HTML, CSS, JavaScript, Geolocation API, Web Speech API
+- Rule-based engine that classifies inputs into 4 risk bands and triggers alerts
+- Voice input (Web Speech API) and nearby hospital detection (Geolocation API)
+- 15 functional test cases defined; deployed on Vercel
 
-**Key Features:**
-- 🧠 Health parameter and symptom analysis
-- 📊 Risk scoring and classification
-- 🚨 High-risk alerts
-- 📍 Nearby hospital assistance
-- 📞 Emergency contact support
-- 🎙️ Voice-based input
-- 📄 PDF report generation
-- 📈 Risk history tracking
+**Tech:** HTML, CSS, JavaScript, Geolocation API, Web Speech API
 
-> ⚠️ This project is intended for educational and health-awareness purposes only and is not a medical diagnostic tool.
+> ⚠️ Educational and health-awareness prototype only. It is not a medical diagnostic tool.
 
 ---
 
-### 🎨 Product Design Case Study — In Progress
+### 📦 [StockSense – Inventory Analytics Application](https://github.com/Ajnaaditi30/StockSense)
 
-Currently working on a Product Design case study using **Figma**, focusing on understanding user needs, structuring information, designing user flows, creating wireframes, and developing interactive prototypes.
+An inventory app that helps identify slow-moving stock.
 
-**Focus Areas:**
-- User-Centered Design
-- User Research
-- User Flows
-- Wireframing
-- UI Design
-- Prototyping
-- UX Case Study Documentation
+- User login and product add/update/delete on MySQL
+- Rule-based High / Medium / Low risk classification, shown on an interactive Streamlit dashboard
+- 7 test cases covering authentication, inventory CRUD, risk classification and data retrieval
 
-**Status:** 🚧 In Progress
+**Tech:** Python, SQL, MySQL, Streamlit
 
 ---
 
-## 🌱 Currently Learning
+## 🔬 Experience
 
-- 🎨 Product Design & UX Fundamentals
-- 🔍 User Research & User-Centered Design
-- 🖌️ Figma & Interactive Prototyping
-- 🧩 Design Systems
-- 📝 UX Case Study Development
-- 📊 Data Visualization & Dashboard Design
-- 🤝 Open-Source Contribution
-
----
-
-## 💡 Open Source
-
-I'm currently exploring open-source projects and looking for opportunities to make my first meaningful contribution.
-
-I'm particularly interested in contributing in areas related to:
-
-- Python
-- Documentation
-- Data Analysis
-- Research
-- UI/UX
-- Problem Solving
+**Research Lead Intern — Quiet Gesture** (Jul 2026 – Present)
+A health-tech startup building AI and computer-vision systems that turn facial expressions and gestures into communication for people with paralysis. I lead research planning and coordination for a two-member team, and contribute to research paper development.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech) — Information Technology**
-
-**Shah and Anchor Kutchhi Engineering College (SAKEC)**
-
-📍 Mumbai, India
-
-**Current Year:** Third Year
-
-**SGPA:**
-- Semester 1: 9.04
-- Semester 2: 9.00
-- Semester 3: 9.14
+**B.Tech, Information Technology** — Shah and Anchor Kutchhi Engineering College, Mumbai (Aug 2024 – Present)
+CGPA: 9.13 (Sem 1–4)
 
 ---
 
 ## 🏆 Certifications
 
+- AWS Academy – Cloud Foundations
+- Cisco – AI
+- CyberCISCO
 - Java Full Stack Development – Virtual Internship
-- JavaScript Essentials – Virtual Internship
-- Design Thinking – Course Certification
-- Graphic Design Essentials – Certificate of Completion
+- JavaScript Essentials
+- Design Thinking
 
 ---
 
 ## 🌟 Leadership & Activities
 
-- 🎯 Student Ambassador – Idea Lab Committee, SAKEC
-- 💻 Member – Google Developer Groups (GDG), SAKEC Chapter
-- 🏆 Participant – Code Off Duty Competitive Coding Event
-
----
-
-## 🎯 Current Goals
-
-- [ ] Complete and publish my Product Design case study
-- [ ] Build a strong Product Design and UX portfolio
-- [ ] Improve my user research and product thinking skills
-- [ ] Make my first meaningful open-source contribution
-- [ ] Work on real-world problems through technology and design
-- [ ] Gain practical industry experience through internships
-- [ ] Continue improving my technical and design skills
+- Student Ambassador, Idea Lab Committee – SAKEC
+- Member, Google Developer Groups (GDG) – SAKEC Chapter
+- Participant, Code Off Duty – Competitive Coding Event
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 **Email:** aaditiajnadkar30@gmail.com
+- 💼 **LinkedIn:** [aaditi-ajnadkar](https://www.linkedin.com/in/aaditi-ajnadkar-815402330)
 - 💻 **GitHub:** [Ajnaaditi30](https://github.com/Ajnaaditi30)
-- 💼 **LinkedIn:** [Add your LinkedIn profile link here]
-
----
-
-## ⭐ A Few Things About Me
-
-- 🎨 I enjoy exploring Product Design and UI/UX.
-- 📊 I like turning complex data into meaningful visualizations.
-- 📝 I enjoy analysis, research, and documentation.
-- 💡 I'm curious about how technology can solve real-world problems.
-- 🌱 I enjoy learning new tools and experimenting with new ideas.
 
 ---
 
