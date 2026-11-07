@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/aaditi-ajnadkar-815402330"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aaditiajnadkar30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+<a href="https://ajnaaditi30.github.io/portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-8B5CF6?style=for-the-badge" /></a>
 </div>
 
 ---
