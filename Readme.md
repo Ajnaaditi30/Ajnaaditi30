@@ -1,123 +1,77 @@
-# 👋 Hi, I'm Aaditi Ajnadkar
+<div align="center">
 
-### IT Student @ SAKEC | Building AI-Powered Web Applications | React, Python & RAG | Research Lead
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aaditi%20Ajnadkar&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Building%20AI-Powered%20Web%20Applications&descAlignY=58&descSize=18" alt="header" />
 
-I'm a B.Tech Information Technology student at **Shah and Anchor Kutchhi Engineering College (SAKEC), Mumbai** (CGPA 9.13 after 4 semesters). I build AI-powered web applications, with a focus on retrieval-augmented generation (RAG), LLM APIs and clean React frontends.
+<a href="https://github.com/Ajnaaditi30">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=IT+Student+%40+SAKEC;Building+AI-Powered+Web+Apps;React+%7C+Python+%7C+RAG+%7C+FastAPI;Research+Lead+Intern+%40+Quiet+Gesture" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/aaditi-ajnadkar-815402330"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aaditiajnadkar30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 B.Tech Information Technology, SAKEC (Aug 2024 – Present)
+- 🎓 B.Tech Information Technology at **Shah and Anchor Kutchhi Engineering College**, Mumbai · CGPA **9.13**
 - 🔬 Research Lead Intern at **Quiet Gesture**, a health-tech startup building gesture-recognition systems for people with paralysis
 - 🧠 Building RAG pipelines with FAISS and LLM APIs
 - 💻 Web apps with React, TypeScript, JavaScript and FastAPI
-- 📊 Python and SQL for data analysis and dashboards
-- 🌱 Currently looking for internships in AI, software and data
+- 🌱 Looking for internships in AI, software and data
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,react,nodejs,fastapi,mysql,git,github,aws&perline=8" />
 
-**AI/ML:** Machine Learning, NLP Fundamentals, RAG, FAISS, LLM APIs, Prompt Engineering
-**Data:** SQL, Pandas, NumPy, Data Preprocessing, EDA
+</div>
+
+**AI/ML:** Machine Learning · NLP Fundamentals · RAG · FAISS · LLM APIs · Prompt Engineering
+**Data:** SQL · Pandas · NumPy · Streamlit · EDA
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Projects
 
-### 🧠 [SAP Error Decoder – AI-Powered Diagnostic Tool](https://github.com/Ajnaaditi30/SAP) · [Live Demo](https://sap-error-decoder.vercel.app/main-app)
+### 🧠 SAP Error Decoder
+RAG pipeline over 200+ LLM-generated SAP error entries, indexed in FAISS, with top retrieved chunks sent to an LLM API for grounded root-cause analysis and fixes. Frontend on Vercel, API on Render.
+`React` `JavaScript` `FAISS` `RAG` `LLM API`
+[Live Demo](https://sap-error-decoder.vercel.app/main-app) · [Code](https://github.com/Ajnaaditi30/SAP)
 
-An AI tool that explains SAP ERP errors with root-cause analysis and suggested fixes.
+### 🔐 QRShield
+FastAPI endpoints generate HMAC-signed payment QR payloads and verify them to detect tampering; a React + TypeScript dashboard shows risk indicators. Backend validated with 26 passing tests.
+`React` `TypeScript` `Python` `FastAPI`
+[Live Demo](https://qr-shield-payment-integrity-simulat.vercel.app/) · [Code](https://github.com/Ajnaaditi30/QRShield-Payment-Integrity-Simulator)
 
-- RAG pipeline: a knowledge base of 200+ LLM-generated SAP error entries, indexed in FAISS, with the top retrieved chunks passed to an LLM API for grounded answers
-- Frontend deployed on Vercel and API on Render; verified end-to-end on a real SAP error (F5 808)
+### ❤️ CardioGuard AI
+Rule-based engine that classifies health inputs into 4 risk bands with alerts, voice input (Web Speech API) and nearby hospital detection (Geolocation API). Educational prototype, not a medical diagnostic tool.
+`HTML` `CSS` `JavaScript`
+[Live Demo](https://cardio-guard-ai-liart.vercel.app/) · [Code](https://github.com/Ajnaaditi30/Cardio-GuardAI)
 
-**Tech:** React, JavaScript, FAISS, RAG, LLM API
-
----
-
-### 🔐 [QRShield – QR Payment Integrity Simulator](https://github.com/Ajnaaditi30/QRShield-Payment-Integrity-Simulator) · [Live Demo](https://qr-shield-payment-integrity-simulat.vercel.app/)
-
-A web-based simulator that demonstrates the risks of manipulated payment QR codes.
-
-- FastAPI endpoints that generate HMAC-signed payment QR payloads and verify them to detect tampering
-- React + TypeScript dashboard that displays the resulting risk indicators
-- Backend validated with 26 passing test cases
-
-**Tech:** React, TypeScript, Python, FastAPI
-
----
-
-### ❤️ [CardioGuard AI – Cardiac Risk Awareness System](https://github.com/Ajnaaditi30/Cardio-GuardAI) · [Live Demo](https://cardio-guard-ai-liart.vercel.app/)
-
-A rule-based prototype that evaluates health parameters and symptoms to raise cardiac risk awareness.
-
-- Rule-based engine that classifies inputs into 4 risk bands and triggers alerts
-- Voice input (Web Speech API) and nearby hospital detection (Geolocation API)
-- 15 functional test cases defined; deployed on Vercel
-
-**Tech:** HTML, CSS, JavaScript, Geolocation API, Web Speech API
-
-> ⚠️ Educational and health-awareness prototype only. It is not a medical diagnostic tool.
-
----
-
-### 📦 [StockSense – Inventory Analytics Application](https://github.com/Ajnaaditi30/StockSense)
-
-An inventory app that helps identify slow-moving stock.
-
-- User login and product add/update/delete on MySQL
-- Rule-based High / Medium / Low risk classification, shown on an interactive Streamlit dashboard
-- 7 test cases covering authentication, inventory CRUD, risk classification and data retrieval
-
-**Tech:** Python, SQL, MySQL, Streamlit
+### 📦 StockSense
+Inventory app with login and product add/update/delete on MySQL, plus High / Medium / Low risk classification of slow-moving stock on a Streamlit dashboard.
+`Python` `SQL` `MySQL` `Streamlit`
+[Code](https://github.com/Ajnaaditi30/StockSense)
 
 ---
 
 ## 🔬 Experience
 
-**Research Lead Intern — Quiet Gesture** (Jul 2026 – Present)
-A health-tech startup building AI and computer-vision systems that turn facial expressions and gestures into communication for people with paralysis. I lead research planning and coordination for a two-member team, and contribute to research paper development.
+**Research Lead Intern, Quiet Gesture** · Jul 2026 – Present
+Lead research planning and coordination for a two-member team and contribute to research paper development.
 
 ---
 
-## 🎓 Education
+## 🏆 Certifications & Activities
 
-**B.Tech, Information Technology** — Shah and Anchor Kutchhi Engineering College, Mumbai (Aug 2024 – Present)
-CGPA: 9.13 (Sem 1–4)
-
----
-
-## 🏆 Certifications
-
-- AWS Academy – Cloud Foundations
-- Cisco – AI
-- CyberCISCO
-- Java Full Stack Development – Virtual Internship
-- JavaScript Essentials
-- Design Thinking
-
----
-
-## 🌟 Leadership & Activities
+AWS Academy – Cloud Foundations · Cisco – AI · CyberCISCO · Java Full Stack Development (Virtual Internship) · JavaScript Essentials · Design Thinking
 
 - Student Ambassador, Idea Lab Committee – SAKEC
 - Member, Google Developer Groups (GDG) – SAKEC Chapter
@@ -125,18 +79,8 @@ CGPA: 9.13 (Sem 1–4)
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 **Email:** aaditiajnadkar30@gmail.com
-- 💼 **LinkedIn:** [aaditi-ajnadkar](https://www.linkedin.com/in/aaditi-ajnadkar-815402330)
-- 💻 **GitHub:** [Ajnaaditi30](https://github.com/Ajnaaditi30)
-
----
-
 <div align="center">
 
-### Thanks for visiting my profile! 👋
-
-**Let's connect, build, and learn together.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 
 </div>
